@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c655b0-495d-40df-8e0f-3ce967a99d00" name="Changes" comment="initiate project" />
+    <list default="true" id="22c655b0-495d-40df-8e0f-3ce967a99d00" name="Changes" comment="initiate project">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/NicholasAdi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/NicholasAdi.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

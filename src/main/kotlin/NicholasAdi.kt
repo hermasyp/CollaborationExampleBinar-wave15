@@ -1,5 +1,5 @@
 class NicholasAdi {
-    fun printName(): {
+    fun printName() {
         println("This is Nicholas Adi")
         println("handsome guy")
     }
