@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c655b0-495d-40df-8e0f-3ce967a99d00" name="Changes" comment="initiate project">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Eri.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22c655b0-495d-40df-8e0f-3ce967a99d00" name="Changes" comment="initiate project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +57,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.App" />
+        <item itemvalue="Kotlin.App" />
+        <item itemvalue="Kotlin.App" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +96,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
